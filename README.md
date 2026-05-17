@@ -1,6 +1,6 @@
 Vermeer Installaties — Loodgieter Website
 
-Live site: [vermeer-installaties.netlify.app](https://6a0a17f1db0c8b8cf9edd2bb--joyful-beijinho-4f3fcf.netlify.app/)
+Live site: https://6a0a17f1db0c8b8cf9edd2bb--joyful-beijinho-4f3fcf.netlify.app/
 
 A modern, responsive one-page website for a fictional local plumbing company in Twente, the Netherlands. Built as a portfolio project to demonstrate web development skills.
 
